@@ -1,0 +1,25 @@
+{
+  "name": "purgecss-with-gutenberg",
+  "version": "1.0.0",
+  "description": "purgecss whitelist & whitelist patterns for the WordPress Gutenberg Block editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bfiessinger/purgecss-with-Gutenberg.git"
+  },
+  "keywords": [
+    "purgecss",
+    "whitelist",
+    "gutenberg",
+    "wordpress"
+  ],
+  "author": "Bastian Fießinger",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/bfiessinger/purgecss-with-Gutenberg/issues"
+  },
+  "homepage": "https://github.com/bfiessinger/purgecss-with-Gutenberg#readme"
+}
