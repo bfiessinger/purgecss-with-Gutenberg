@@ -3,7 +3,7 @@ module.exports = {
 		// Utility Classes
 		'has-background',
 		'has-background-gradient',
-		'has-drop-cap', 
+		'has-drop-cap',
 		'wp-has-aspect-ratio',
 		'is-resized',
 		'is-cropped',
@@ -26,6 +26,10 @@ module.exports = {
 		'wp-calendar',
 		'wp-calendar-table',
 		'wp-calendar-nav',
+
+		// core/embed
+		'wp-embed-responsive',
+		'wp-has-aspect-ratio'
 
 	],
 	whitelistPatterns: [
