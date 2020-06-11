@@ -1,6 +1,6 @@
 {
   "name": "purgecss-with-gutenberg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "purgecss whitelist & whitelist patterns for the WordPress Gutenberg Block editor",
   "main": "index.js",
   "scripts": {
