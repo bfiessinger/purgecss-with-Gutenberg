@@ -7,6 +7,7 @@ module.exports = {
 		'wp-has-aspect-ratio',
 		'is-resized',
 		'is-cropped',
+		'no-border-radius',
 		'has-parallax',
 		'is-grid',
 		'has-dates',
